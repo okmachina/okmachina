@@ -1,5 +1,3 @@
-<div style="martin:auto">
-  ![https://github.com/okmachina.png](https://github.com/okmachina.png)
-</div>
+![https://github.com/okmachina.png](https://github.com/okmachina.png)
 
-I make light on your server blink.
+I make light on your servers go beep boop. 
